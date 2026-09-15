@@ -21,7 +21,7 @@ I'm always curious and interested in expanding my repertoire of technical commun
 To view my writing samples that I have produced for public viewing, you can see them [here](https://github.com/caseylee-TC/WritingSamples/blob/main/README.md)
 
 # Sample API Documentation
-I've created a GitHub repository to store and host a sample API that I documented and published. You can view the GitHub repository where I document the process [here](https://github.com/caseylee-TC/SampleSunsetSunriseAPI/blob/main/README.md). Or view the final documented output [here](https://caseylee-tc.github.io/SampleSunsetSunriseAPI/).
+I've created a GitHub repository to store and host a sample API that I documented and published. This repository is a CI/CD setup which means that I can update the live documentation page by pushing updates to the GitHub repository, and it will lint, build and deploy the live page through workflow files run by GitHub Actions. You can view the GitHub repository where I document the process [here]([https://github.com/caseylee-TC/SampleSunsetSunriseAPI/blob/main/README.md](https://github.com/caseylee-TC/githubActionsRedoc/blob/main/README.md)). Or view the final documented output [here]([https://caseylee-tc.github.io/SampleSunsetSunriseAPI/](https://caseylee-tc.github.io/githubActionsRedoc/)).
 
 # Contact
 You can reach out to me if you want any collaborations for documentation at caseylee.techcomm@gmail.com. 
